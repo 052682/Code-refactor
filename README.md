@@ -1,4 +1,4 @@
-# Week-1-Challenge
+# Week 1 Challenge
 
 ## USER STORY
 AS A marketing agency

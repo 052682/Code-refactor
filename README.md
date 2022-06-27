@@ -25,5 +25,8 @@ THEN I find a concise, descriptive title
 - Added alt attributes to image links
 - Repaired broken navigation link
 
+## LINK TO PUBLISHED PAGE
+https://052682.github.io/Week-1-Challenge/
+
 ## SCREEENSHOT
 ![horiseon](https://user-images.githubusercontent.com/105962641/175999093-398f2c15-6035-41af-ba79-9d8df1b0e2e8.png)
